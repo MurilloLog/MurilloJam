@@ -1,9 +1,13 @@
-<img src="https://user-images.githubusercontent.com/27164570/144447624-ab360ca2-5d76-4ac3-bb51-27ae2ef01514.png" alt=""> 
+<h2 align="center">About me 🧐 </h2>
 
-## Bienvenido
-Soy Gustavo Murillo, estudiante de ingeniería mecatronica con gusto en los sistemas digitales, inteligencia artificial, realidad virtual y biónica. Me fascina involucrarme en cualquier proyecto que requiera la integración de electrónica con la programación.
-
-Mi gusto surgió desde los 7 años cuando tuve mi primer contacto con un ordenador. Hoy, a la edad de 24 años, mi recorrido por este maravilloso mundo sigue en pie y que mejor forma de demostrar mi aprecio que compartiendo mi progreso en esto a lo que llamo mi pequeño jardín. 
+- Pronouns: **He/Him**
+- Community Enthusiast
+- Interested in **Augmented Reality & Digital Systems** :grinning:
+- Currently learning **C#, Kotlin & VHDL** :star_struck:
+- I’m learning **java** too :muscle:
+- I love learning new skills as well as implement those in my social environment.
+- I love making **robots** :sunglasses:
+- Most important thing :heart: I enjoy what I do. :heart:
 
 <!--## Más sobre mí :man:
 Me desenvuelvo en áreas 
